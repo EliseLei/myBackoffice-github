@@ -1,0 +1,25 @@
+.ReposDetail-inner {
+  background-color:white;
+  border:1px solid #f0f1f6;
+  margin-bottom:24px;
+  padding:20px;
+}
+
+.ReposDetail_date {
+  color:#a7a7a7;
+  font-size:12px;
+  text-align:right;
+}
+
+.ReposDetail a {
+  color:#5c2c98;
+  font-weight:bold;
+}
+
+.ReposDetail a:hover {
+  color:#6c41a3;
+}
+
+.ReposDetailDescription {
+  color:#a7a7a7;
+}

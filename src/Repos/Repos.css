@@ -1,0 +1,21 @@
+.Repos-container {
+  background-color:white;
+  border:1px solid #f0f1f6;
+  margin-bottom:24px;
+  padding:20px;
+}
+
+.Repos-inner {
+  max-width:400px;
+  margin:0 auto;
+  font-weight:bold;
+  text-align:center;
+}
+
+.Repos-inner a {
+  color:#5c2c98;
+}
+
+.Repos-inner a:hover {
+  color:#6c41a3;
+}

@@ -1,0 +1,9 @@
+.UsersSearch {
+  margin:0 auto;
+  text-align:center;
+}
+
+.AddUserForm {
+  display:flex;
+  justify-content: center;
+}

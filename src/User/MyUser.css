@@ -1,0 +1,21 @@
+.MyUser-container {
+  background-color:white;
+  border:1px solid #f0f1f6;
+  margin-bottom:24px;
+  padding:20px;
+}
+
+.MyUser-avatar img {
+  border-radius:50%;
+  width:150px;
+  height:150px;
+  object-fit: cover;
+  margin-top:10px;
+  border:1px solid #f0f1f6;
+}
+
+.MyUser-inner {
+  max-width:400px;
+  margin:0 auto;
+  text-align:center;
+}
