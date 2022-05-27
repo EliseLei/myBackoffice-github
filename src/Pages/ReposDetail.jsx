@@ -37,8 +37,8 @@ class ReposDetail extends Component {
               <p>{this.state.reposDetail.language}</p>
               <p>{this.state.reposDetail.stargazers_count} Like</p>
             </div>
-            <p class="ReposDetail_date">{new Date(this.state.reposDetail.created_at).toLocaleString("fr-FR")}</p>
-            <p class="ReposDetail_date">{new Date(this.state.reposDetail.updated_at).toLocaleString("fr-FR")}</p>
+            <p className="ReposDetail_date">{new Date(this.state.reposDetail.created_at).toLocaleString("fr-FR")}</p>
+            <p className="ReposDetail_date">{new Date(this.state.reposDetail.updated_at).toLocaleString("fr-FR")}</p>
           </div>
         </div>
       </div>
